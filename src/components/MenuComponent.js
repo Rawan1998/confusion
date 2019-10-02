@@ -54,7 +54,7 @@ class Menu extends Component {
                         </Media>
                         <Media body className="ml-5">
                             <Media heading>
-                                {dish.heading}
+                                {dish.name}
                             </Media>
                             <p>{dish.description}</p>
                         </Media>
